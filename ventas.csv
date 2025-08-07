@@ -1,0 +1,26 @@
+Fecha,Categoria,Producto,PrecioUnitario,Cantidad,TotalVenta,IDCliente
+2023-01-15,Electrónica,Laptop Pro,1200,1,1200,101
+2023-01-22,Ropa,Camiseta Básica,25,2,50,102
+2023-02-05,Hogar,Set de Cojines,50,1,50,103
+2023-02-10,Electrónica,Smartphone X,850,1,850,101
+2023-03-12,Ropa,Jeans,70,1,70,104
+2023-04-20,Hogar,Cafetera,80,1,80,105
+2023-05-18,Libros,Novela de Ficción,20,3,60,106
+2023-06-25,Electrónica,Audífonos Inalámbricos,150,1,150,102
+2023-07-07,Ropa,Sudadera,60,1,60,107
+2023-08-14,Hogar,Lámpara de Escritorio,45,2,90,104
+2023-09-01,Libros,Libro de Cocina,30,1,30,108
+2023-10-10,Electrónica,Smartwatch,300,1,300,109
+2023-10-25,Ropa,Zapatillas Deportivas,90,1,90,105
+2023-11-05,Hogar,Set de Sartenes,120,1,120,110
+2023-11-15,Electrónica,Smartphone X,850,1,850,111
+2023-11-28,Ropa,Camiseta Básica,25,3,75,101
+2023-12-01,Electrónica,Laptop Pro,1200,2,2400,112
+2023-12-05,Hogar,Set de Cojines,50,4,200,113
+2023-12-10,Electrónica,Audífonos Inalámbricos,150,5,750,114
+2023-12-12,Ropa,Sudadera,60,3,180,109
+2023-12-15,Libros,Biografía,28,2,56,115
+2023-12-18,Electrónica,Smartphone X,850,3,2550,116
+2023-12-20,Electrónica,Laptop Pro,1200,1,1200,103
+2023-12-22,Hogar,Cafetera,80,2,160,111
+2023-12-28,Ropa,Jeans,70,2,140,117
