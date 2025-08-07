@@ -59,7 +59,7 @@ pip install pandas plotly dash
 Dentro del archivo ventas.csv, podras añadir los datos que quieres analizar.
 
 
-### 4. Ejecutar la Aplicación
+### 5. Ejecutar la Aplicación
 
 Finalmente, inicia el servidor del dashboard:
 
