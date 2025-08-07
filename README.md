@@ -54,6 +54,11 @@ Con el entorno virtual activado, instala las librerías necesarias:
 pip install pandas plotly dash
 ```
 
+### 4. Preparar los datos
+
+Dentro del archivo ventas.csv, podras añadir los datos que quieres analizar.
+
+
 ### 4. Ejecutar la Aplicación
 
 Finalmente, inicia el servidor del dashboard:
