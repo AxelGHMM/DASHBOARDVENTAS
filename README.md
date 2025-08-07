@@ -73,14 +73,3 @@ http://127.0.0.1:8050/
 ```
 
 ¡Listo! Ya puedes comenzar a explorar las métricas de tu tienda en línea.
-
----
-
-## 📎 Licencia
-
-Este proyecto se entrega con fines educativos y puede ser modificado para tus necesidades.
-
-```
-
-¿Deseas que lo guarde directamente como archivo `.md` para que puedas descargarlo?
-```
